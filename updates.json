@@ -5,6 +5,10 @@
         {
           "version": "1.3",
           "update_link": "https://github.com/pammjdev/extension/raw/main/StoreExpander.xpi"
+        },
+        {
+          "version": "1.4",
+          "update_link": "https://github.com/pammjdev/extension/raw/main/StoreExpander-1.4.xpi"
         }
       ]
     }
