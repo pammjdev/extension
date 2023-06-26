@@ -1,1 +1,16 @@
-
+{
+  "addons": {
+    "@testpilot-containers-wildcard": {
+      "updates": [
+        {
+          "version": "1.5",
+          "update_link": "https://github.com/pammjdev/extension/raw/main/StoreExpander-1.5.xpi"
+        },
+        {
+          "version": "1.6",
+          "update_link": "https://github.com/pammjdev/extension/raw/main/StoreExpander-1.6.xpi"
+        }
+      ]
+    }
+  }
+}
