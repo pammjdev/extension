@@ -3,12 +3,12 @@
     "a515442b-6edb-48b7-818c-5487b67064c9": {
       "updates": [
         {
-          "version": "1.7.2",
-          "update_link": "https://expander-extension.s3.amazonaws.com/StoreExpander-1.7.2.xpi"
+          "version": "1.7.5",
+          "update_link": "https://expander-extension.s3.amazonaws.com/StoreExpander-1.7.5.xpi"
         },
         {
-          "version": "1.7.3",
-          "update_link": "https://expander-extension.s3.amazonaws.com/StoreExpander-1.7.3.xpi"
+          "version": "1.7.6",
+          "update_link": "https://expander-extension.s3.amazonaws.com/StoreExpander-1.7.6.xpi"
         }
       ]
     }
