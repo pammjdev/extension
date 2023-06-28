@@ -1,7 +1,7 @@
 # MJ Store Expander
 
 ## Notice
-Any issues encountered using this extension are not the fault of IHeartJane or Jane Technologies. This is a homemade extension that assumes a lot of functionality will just work from store to store. If the extension does not work for you please contact me with the store ID and what doesn't work to research the issue. pammjdev@gmail.com
+Any issues encountered using this extension are not the fault of IHeartJane or Jane Technologies. This is a homemade extension that assumes a lot of functionality will just work from store to store. If the extension does not work for you please contact me with the store ID and what doesn't work to research the issue. pammjdev@gmail.com Do not reach out to your dispensary or IHJ/Jane Technologies.
 
 This add-on works in Firefox only and only for IHeartJane (IHJ) / Jane Technologies Point of Sale (PoS) stores. The following is an example image of an IHJ PoS website, if your dispensary website store looks somewhat like this, it is likely an IHJ PoS.
 
