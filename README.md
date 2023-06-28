@@ -71,4 +71,4 @@ This example user typed 'tys' and the Brand filter for 'TYSON 2.0' is the one to
 
 Checking the filter only displays TYSON 2.0 brand products in the inventory.
 
-![Search Filters](https://raw.githubusercontent.com/pammjdev/extension/main/search_filters.jpg)
+![Search Filters](https://raw.githubusercontent.com/pammjdev/extension/main/images/search_filters.jpg)
