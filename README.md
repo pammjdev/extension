@@ -1,10 +1,18 @@
 # MJ Store Expander
 
+## Notice
+Any issues encountered using this extension are not the fault of IHeartJane or Jane Technologies. This is a homemade extension that assumes a lot of functionality will just work from store to store. If the extension does not work for you please contact me with the store ID and what doesn't work to research the issue. pammjdev@gmail.com
+
 ## Install
 This add-on works in Firefox only
 
-To install, open the following link in Firefox https://expander-extension.s3.amazonaws.com/StoreExpander-1.7.5.xpi
-When the link is opened in firefox, you will get this image to Add MJ Store Expander
+To install, click the following link while using Firefox https://expander-extension.s3.amazonaws.com/StoreExpander-1.7.5.xpi
+When the link is clicked in firefox, the first notification you get is Firefox confirming you intended to install an add-on when you clicked on a link in GitHub.
+
+![Continue Installation](https://raw.githubusercontent.com/pammjdev/extension/54d604c0b12721576ddf19082a83a5898ff40f7d/add.jpg)
+
+
+After clicking Continue Installation, you will get this image to Add MJ Store Expander
 
 ![Add to Firefox](https://raw.githubusercontent.com/pammjdev/extension/54d604c0b12721576ddf19082a83a5898ff40f7d/add.jpg)
 
@@ -24,5 +32,6 @@ After installing Firefox Extension, extensions can be found under the Puzzle Pie
 
 ![Load Store](https://raw.githubusercontent.com/pammjdev/extension/54d604c0b12721576ddf19082a83a5898ff40f7d/load_store.jpg)
 
-## Example Usage
+### After opening expansion and it automatically displays store ID it will begin automatically loading store data. Give it a moment to load, the screen should look like this while loading. If loading does not complete please contact me with store ID to fix.
 
+![Auto loading store data](https://raw.githubusercontent.com/pammjdev/extension/54d604c0b12721576ddf19082a83a5898ff40f7d/load.jpg)
