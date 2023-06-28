@@ -3,10 +3,11 @@
 ## Notice
 Any issues encountered using this extension are not the fault of IHeartJane or Jane Technologies. This is a homemade extension that assumes a lot of functionality will just work from store to store. If the extension does not work for you please contact me with the store ID and what doesn't work to research the issue. pammjdev@gmail.com
 
-## Install
 This add-on works in Firefox only and only for IHeartJane (IHJ) / Jane Technologies Point of Sale (PoS) stores. The following is an example image of an IHJ PoS website, if your dispensary website store looks somewhat like this, it is likely an IHJ PoS.
 
 ![Example IHJ PoS Website](https://raw.githubusercontent.com/pammjdev/extension/main/images/example_IHJ_store.jpg)
+
+## Install
 
 To install, click the following link while using Firefox https://expander-extension.s3.amazonaws.com/StoreExpander-1.7.5.xpi
 When the link is clicked in Firefox, the first notification you get is Firefox confirming you intended to install an add-on when you clicked on a link in GitHub.
