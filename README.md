@@ -44,8 +44,15 @@ Terpene By Name becomes enabled when you open the left side 'Terpenes' category 
 
 ![Loaded Store](https://raw.githubusercontent.com/pammjdev/extension/main/new_ordering.jpg)
 
-Example filtering by terpene B-Pinene. This will show only products with B-Pinene listed in them, and will put the inventory with the highest percent of that specific terpene at the top of the list.
+Example filtering by include terpene B-Pinene. This will show only products with B-Pinene listed in them, and will put the inventory with the highest percent of that specific terpene at the top of the list.
 
 Mouse over the different colored blocks to see terpene name and specific total.
 
-NEW TERPENE ORDERING IMAGE HERE
+![Include Terpene Filter](https://raw.githubusercontent.com/pammjdev/extension/main/order_by_specific_terpene_include.jpg)
+
+It is also possible to exclude terpene and show medicine with the least amount. Checking the second checkbox in Terpenes filter category will order the inventory by displaying medicine without the terpene first, then those with the smallest percent. It will not show inventory with no Terpenes listed (if the product description did not supply it or it is 'Gear' that does not have terpenes).
+
+![Exclude Terpene Filter](https://raw.githubusercontent.com/pammjdev/extension/main/order_by_specific_terpene_exclude.jpg)
+
+You can also order by 'Terpene Total' percent by selecting that option in the Order By dropdown. This example shows all products and lists the highest Total Terp first.
+
