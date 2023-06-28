@@ -31,7 +31,7 @@ After installing Firefox Extension, extensions can be found under the Puzzle Pie
 
 ![Load Store](https://raw.githubusercontent.com/pammjdev/extension/main/images/loading.jpg)
 
-After opening expansion and it automatically displays store ID it will begin automatically loading store data. Give it a moment to load, the screen should look like this while loading. If loading does not complete please contact me with store ID to fix.
+After opening expansion and it automatically displays store ID it will begin automatically loading store data. If no store ID loads automatically, enter it manually and press Load/Reset Store. Give it a moment to load, the screen should look like this while loading. If loading does not complete please contact me with store ID to fix.
 
 ![Auto loading store data](https://raw.githubusercontent.com/pammjdev/extension/main/images/load_store.jpg)
 
