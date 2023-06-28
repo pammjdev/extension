@@ -56,3 +56,20 @@ It is also possible to exclude terpene and show medicine with the least amount. 
 
 You can also order by 'Terpene Total' percent by selecting that option in the Order By dropdown. This example shows all products and lists the highest Total Terp first.
 
+![Order By Terpene Total](https://raw.githubusercontent.com/pammjdev/extension/main/order_by_terpene_total.jpg)
+
+Example of filtering by Flower products, and ordering them by 'Price Per Gram: Low to High'. This will show the lowest PPG first.
+
+If you move the mouse over the cost of the item, it will display the PPG.
+
+PPG = Price % Weight. Ex: $28/7g = $4.0 $/g (Price per gram)
+
+![Order By Price Per Gram](https://raw.githubusercontent.com/pammjdev/extension/main/price_per_gram.jpg)
+
+You can search through the filters by typing in the 'Search in Filter' input.
+
+This example user typed 'tys' and the Brand filter for 'TYSON 2.0' is the one to display.
+
+Checking the filter only displays TYSON 2.0 brand products in the inventory.
+
+![Search Filters](https://raw.githubusercontent.com/pammjdev/extension/main/search_filters.jpg)
