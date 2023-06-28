@@ -9,7 +9,7 @@ This add-on works in Firefox only
 To install, click the following link while using Firefox https://expander-extension.s3.amazonaws.com/StoreExpander-1.7.5.xpi
 When the link is clicked in firefox, the first notification you get is Firefox confirming you intended to install an add-on when you clicked on a link in GitHub.
 
-![Continue Installation](https://raw.githubusercontent.com/pammjdev/extension/54d604c0b12721576ddf19082a83a5898ff40f7d/add.jpg)
+![Continue Installation](https://raw.githubusercontent.com/pammjdev/extension/54d604c0b12721576ddf19082a83a5898ff40f7d/continue.jpg)
 
 
 After clicking Continue Installation, you will get this image to Add MJ Store Expander
@@ -35,3 +35,11 @@ After installing Firefox Extension, extensions can be found under the Puzzle Pie
 ### After opening expansion and it automatically displays store ID it will begin automatically loading store data. Give it a moment to load, the screen should look like this while loading. If loading does not complete please contact me with store ID to fix.
 
 ![Auto loading store data](https://raw.githubusercontent.com/pammjdev/extension/54d604c0b12721576ddf19082a83a5898ff40f7d/load.jpg)
+
+### When store is finished loading user see new filters on left and dispensary inventory on the right. Clicking the underlined product name will cause a new tab to be opened behind the extension with the IHJ website for that product and store. Pressing Esc key or clicking the red X in the extension will close it so you can look at product website. Reopening extension (while same store is active tab) causes extension to reload with last filtering applied so you can continue where left off easily.
+
+Open the 'Order By' dropdown for new options like 'Price Per Gram' and Terpene Total.
+
+Terpene By Name becomes enabled when you open the left side 'Terpenes' category and filter by a specific terpene.
+
+![Loaded Store](https://raw.githubusercontent.com/pammjdev/extension/54d604c0b12721576ddf19082a83a5898ff40f7d/new_ordering.jpg)
