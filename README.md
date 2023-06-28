@@ -36,10 +36,16 @@ After opening expansion and it automatically displays store ID it will begin aut
 
 ![Auto loading store data](https://raw.githubusercontent.com/pammjdev/extension/main/load_store.jpg)
 
-When store is finished loading user see new filters on left and dispensary inventory on the right. Clicking the underlined product name will cause a new tab to be opened behind the extension with the IHJ website for that product and store. Pressing Esc key or clicking the red X in the extension will close it so you can look at product website. Reopening extension (while same store is active tab) causes extension to reload with last filtering applied so you can continue where left off easily.
+When store is finished loading user will see new filters on left and dispensary inventory on the right. Clicking the underlined product name will cause a new tab to be opened behind the extension with the IHJ website for that product and store. Pressing Esc key or clicking the red X in the extension will close it so you can look at product website. Reopening extension (while same store is active tab) causes extension to reload with last filtering applied so you can continue where left off easily.
 
 Open the 'Order By' dropdown for new options like 'Price Per Gram' and Terpene Total.
 
 Terpene By Name becomes enabled when you open the left side 'Terpenes' category and filter by a specific terpene.
 
-![Loaded Store](https://raw.githubusercontent.com/pammjdev/extension/54d604c0b12721576ddf19082a83a5898ff40f7d/new_ordering.jpg)
+![Loaded Store](https://raw.githubusercontent.com/pammjdev/extension/main/new_ordering.jpg)
+
+Example filtering by terpene B-Pinene. This will show only products with B-Pinene listed in them, and will put the inventory with the highest percent of that specific terpene at the top of the list.
+
+Mouse over the different colored blocks to see terpene name and specific total.
+
+NEW TERPENE ORDERING IMAGE HERE
