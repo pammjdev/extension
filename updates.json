@@ -3,14 +3,9 @@
     "pammjdev@gmail.com": {
       "updates": [
         {
-          "version": "1.7.5",
-          "update_link": "https://expander-extension.s3.amazonaws.com/StoreExpander-1.7.5.xpi",
-          "update_hash": "sha256:389763bde106bcf0cbed2a723d87048d2a32d6c410f8554db9bd5a8bb199a71f"
-        },
-        {
-          "version": "1.7.6",
-          "update_link": "https://expander-extension.s3.amazonaws.com/StoreExpander-1.7.6.xpi",
-          "update_hash": "sha256:02a132ccbdbf97632f6ddbcded4f8731b2c1247a66b57a4bf14dcc94ea72d1e8"
+          "version": "2.0",
+          "update_link": "https://expander-extension.s3.amazonaws.com/StoreExpander-2.0.xpi",
+          "update_hash": "sha256:5cc9d47add1f43de7a13a57f8de02cadf9a2fc44cc9598321aab370b3bc99e99"
         }
       ]
     }
