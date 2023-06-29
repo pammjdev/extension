@@ -34,11 +34,11 @@ While using, if you find the text too small try zooming in (my default to do thi
 
 ### Important: When opening the Store Expander, if you have your dispensary PoS website open (Example dispensary website that uses IHJ chosen by random https://risecannabis.com/dispensary-menu/pennsylvania/duncansville-medical-menu/ ) then open the Store Expander, it will automatically pull the Store ID for you and load the inventory. Example of opening the store expansion while on the risecannabis PoS website
 
-![Load Store](https://raw.githubusercontent.com/pammjdev/extension/main/images/loading.jpg)
+![Load Store](https://raw.githubusercontent.com/pammjdev/extension/main/images/load_store.jpg)
 
 After opening expansion and it automatically displays store ID it will begin automatically loading store data. If no store ID loads automatically, enter it manually and press Load/Reset. Give it a moment to load, the screen should look like this while loading. If loading does not complete please contact me with store ID to fix.
 
-![Auto loading store data](https://raw.githubusercontent.com/pammjdev/extension/main/images/load_store.jpg)
+![Auto loading store data](https://raw.githubusercontent.com/pammjdev/extension/main/images/loading.jpg)
 
 When store is finished loading user will see new filters on left and dispensary inventory on the right. Clicking the underlined product name will cause a new tab to be opened behind the extension with the IHJ website for that product and store. Pressing Esc key or clicking the red X in the extension will close it so you can look at product website. Reopening extension (while same store is active tab) causes extension to reload with last filtering applied so you can continue where left off easily.
 
