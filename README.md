@@ -9,8 +9,8 @@ This add-on works in Firefox only and only for IHeartJane (IHJ) / Jane Technolog
 
 ## Install
 
-To install, click the following link while using Firefox https://expander-extension.s3.amazonaws.com/StoreExpander-1.7.5.xpi
-When the link is clicked in Firefox, the first notification you get is Firefox confirming you intended to install an add-on when you clicked on a link in GitHub.
+To install, click the following link while using Firefox https://expander-extension.s3.amazonaws.com/StoreExpander-2.0.xpi
+When the link is clicked using Firefox, the first notification you get is Firefox confirming you intended to install an add-on when you clicked on a link in GitHub.
 
 ![Continue Installation](https://raw.githubusercontent.com/pammjdev/extension/main/images/continue.jpg)
 
