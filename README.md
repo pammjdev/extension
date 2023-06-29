@@ -28,6 +28,8 @@ After pressing Add, it will ask if extension should have access to private windo
 ## Use
 After installing Firefox Extension, extensions can be found under the Puzzle Piece Icon typically. Look for the colorful wheel icon to find the MMJ Store Expander extension.
 
+While using, if you find the text too small try zooming in (my default to do this is putting the cursor inside the extension then holding Ctrl + Mouse Scroll Wheel Up. Doing Ctrl and + will also zoom in on most PCs. To zoom out Ctrl and -. To reset zoom press Ctrl and 0).
+
 ![Find In Firefox](https://raw.githubusercontent.com/pammjdev/extension/main/images/find_extension.jpg)
 
 ### Important: When opening the Store Expander, if you have your dispensary PoS website open (Example dispensary website that uses IHJ chosen by random https://risecannabis.com/dispensary-menu/pennsylvania/duncansville-medical-menu/ ) then open the Store Expander, it will automatically pull the Store ID for you and load the inventory. Example of opening the store expansion while on the risecannabis PoS website
