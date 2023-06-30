@@ -7,6 +7,9 @@ This add-on works in Firefox only and only for IHeartJane (IHJ) / Jane Technolog
 
 ![Example IHJ PoS Website](https://raw.githubusercontent.com/pammjdev/extension/main/images/example_IHJ_store.jpg)
 
+## Limitations
+The store inventory may be up to 24 hours old. This is because I worked hard to play nice with Jane Technologies, in the name of free use, since I am not affiliated with them. I implemented a webservice I run, that only pulls the API data once a day for each store being accessed by users. It then saves the inventory so that if the data is needed again in the same day, it uses my webservice saved data and does not access IHeartJane(IHJ) again. I did this to lower the number of times the IHJ service has to be called.
+
 ## Install
 
 To install, click the following link while using Firefox https://expander-extension.s3.amazonaws.com/StoreExpander-2.1.xpi
