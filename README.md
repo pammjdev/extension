@@ -69,7 +69,7 @@ Example of filtering by Flower products, and ordering them by 'Price Per Gram: L
 
 If you move the mouse over the cost of the item, it will display the PPG.
 
-PPG = Price % Weight. Ex: $28/7g = $4.0 $/g (Price per gram)
+PPG = Price % Weight. Ex: Price28/7g = Price4.0 Price/g (Price per gram)
 
 ![Order By Price Per Gram](https://raw.githubusercontent.com/pammjdev/extension/main/images/price_per_gram.jpg)
 
