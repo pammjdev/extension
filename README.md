@@ -11,7 +11,7 @@ The store inventory may be up to 24 hours old. This is because I worked hard to 
 ## Use
 The website needs to know what store to load in order to use it. If you already know your stores (typically four digit) number you can skip this step and enter it directly into the website then press Load button to load your store.
 
-If you wish to load a sample store number use 1961, otherwise you can find a specific store number using the following steps.
+The website loads with example store number 1961. Any store number may be entered, if you do not know your specific store number you may find it using the step below.
 
 Once the value is put into [janeexpander.com](http://janeexpander.com/) input hit Load button and the inventory will be generated in a moment.
 
