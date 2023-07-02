@@ -1,4 +1,4 @@
-# MJ Store Expander janeexpander.com
+# MJ Store Expander [janeexpander.com](http://janeexpander.com/)
 
 ## Notice
 Any issues encountered using this website are not the fault of IHeartJane or Jane Technologies. This is a homemade website that assumes a lot of functionality will just work from store to store. If it does not work for you please contact me with the store number/website and what doesn't work to research the issue. pammjdev@gmail.com Do not reach out to your dispensary or IHJ/Jane Technologies.
@@ -12,6 +12,6 @@ The website needs to know what store to load in order to use it. If you do not a
 If you do not know your store number you can copy the link of an inventory item from the dispensary website and paste it into janeexpander.com and it will parse the store number for you. The image below is an example of how to right-click the inventory item in the dispensary and then click 'Copy link address', or you can see the store number in the link preview if it displays and you can type it in manually.
 ![Find Store Number](https://raw.githubusercontent.com/pammjdev/extension/main/images/get_store_number.jpg)
 
-Once the value is put into janeexpander.com input hit Load button and the inventory will be generated in a moment.
+Once the value is put into [janeexpander.com](http://janeexpander.com/) input hit Load button and the inventory will be generated in a moment.
 
 All item purchases are through the Jane Technologies system. This website does not collect data or interfere with their purchasing process. It only tries to help make finding the medicine easier.
