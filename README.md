@@ -5,6 +5,8 @@ Any issues encountered using this website are not the fault of IHeartJane or Jan
 
 All item purchases are through the Jane Technologies system. This website does not collect data or interfere with their purchasing process. It only tries to help make finding the medicine easier.
 
+This has been modified from the initial idea of a Firefox Extension and is now a website. Any previous mention of this being a Firefox Extension are no longer true, the extension will no longer be supported in place of the website.
+
 ## Limitations
 The store inventory may be up to 24 hours old. This is because I worked hard to play nice with Jane Technologies, in the name of free use, since I am not affiliated with them. I implemented a webservice I run, that only pulls the API data once a day for each store being accessed by users. It then saves the inventory so that if the data is needed again in the same day, it uses my webservice saved data and does not access IHeartJane(IHJ) again. I did this to lower the number of times the IHJ service has to be called.
 
