@@ -9,8 +9,6 @@ All item purchases are through the Jane Technologies system. This website does n
 The store inventory may be up to 24 hours old. This is because I worked hard to play nice with Jane Technologies, in the name of free use, since I am not affiliated with them. I implemented a webservice I run, that only pulls the API data once a day for each store being accessed by users. It then saves the inventory so that if the data is needed again in the same day, it uses my webservice saved data and does not access IHeartJane(IHJ) again. I did this to lower the number of times the IHJ service has to be called.
 
 ## Use
-The website needs to know what store to load in order to use it. If you already know your stores (typically four digit) number you can skip this step and enter it directly into the website then press Load button to load your store.
-
 The website loads with example store number 1961. Any store number may be entered, if you do not know your specific store number you may find it using the step below.
 
 Once the value is put into [janeexpander.com](http://janeexpander.com/) input hit Load button and the inventory will be generated in a moment.
