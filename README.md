@@ -7,7 +7,7 @@ Any issues encountered using this website are not the fault of IHeartJane or Jan
 The store inventory may be up to 24 hours old. This is because I worked hard to play nice with Jane Technologies, in the name of free use, since I am not affiliated with them. I implemented a webservice I run, that only pulls the API data once a day for each store being accessed by users. It then saves the inventory so that if the data is needed again in the same day, it uses my webservice saved data and does not access IHeartJane(IHJ) again. I did this to lower the number of times the IHJ service has to be called.
 
 ## Use
-The website needs to know what store to load in order to use it. If you do not already know your stores (typically four digit) number you can skip this step and enter it directly into the website then press Load button to load your store.
+The website needs to know what store to load in order to use it. If you already know your stores (typically four digit) number you can skip this step and enter it directly into the website then press Load button to load your store.
 
 If you do not know your store number you can copy the link of an inventory item from the dispensary website and paste it into janeexpander.com and it will parse the store number for you. The image below is an example of how to right-click the inventory item in the dispensary and then click 'Copy link address', or you can see the store number in the link preview if it displays and you can type it in manually.
 ![Find Store Number](https://raw.githubusercontent.com/pammjdev/extension/main/images/get_store_number.jpg)
