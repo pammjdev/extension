@@ -1,4 +1,4 @@
-# MJ Store Expander [janeexpander.com](http://janeexpander.com/)
+# Jane Store Expander [janeexpander.com](http://janeexpander.com/)
 
 ## Notice
 Any issues encountered using this website are not the fault of IHeartJane or Jane Technologies. This is a homemade website that assumes a lot of functionality will just work from store to store. If it does not work for you please contact me with the store number/website and what doesn't work to research the issue. pammjdev@gmail.com Do not reach out to your dispensary or IHJ/Jane Technologies.
