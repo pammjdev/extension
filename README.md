@@ -13,7 +13,7 @@ The store inventory may be up to 24 hours old. This is because I worked hard to 
 ## Use
 The website loads with example store number 1961. Any store number may be entered, if you do not know your specific store number you may find it using the step below.
 
-Once the value is put into [janeexpander.com](http://janeexpander.com/) input hit Load button and the inventory will be generated in a moment.
-
 The image below is an example of how to right-click the inventory item in the dispensary and then click 'Copy link address', or you can see the store number in the link preview if it displays and you can type it in manually.
 ![Find Store Number](https://raw.githubusercontent.com/pammjdev/extension/main/images/get_store_number.jpg)
+
+Once the value is put into [janeexpander.com](http://janeexpander.com/) input hit Load button and the inventory will be generated in a moment.
